@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="MerriweatherSans-BoldItalic.otf.GlyphOrder.ttx"/>
+  <head src="MerriweatherSans-BoldItalic.otf._h_e_a_d.ttx"/>
+  <hhea src="MerriweatherSans-BoldItalic.otf._h_h_e_a.ttx"/>
+  <maxp src="MerriweatherSans-BoldItalic.otf._m_a_x_p.ttx"/>
+  <OS_2 src="MerriweatherSans-BoldItalic.otf.O_S_2f_2.ttx"/>
+  <name src="MerriweatherSans-BoldItalic.otf._n_a_m_e.ttx"/>
+  <cmap src="MerriweatherSans-BoldItalic.otf._c_m_a_p.ttx"/>
+  <post src="MerriweatherSans-BoldItalic.otf._p_o_s_t.ttx"/>
+  <CFF src="MerriweatherSans-BoldItalic.otf.C_F_F_.ttx"/>
+  <GSUB src="MerriweatherSans-BoldItalic.otf.G_S_U_B_.ttx"/>
+  <hmtx src="MerriweatherSans-BoldItalic.otf._h_m_t_x.ttx"/>
+</ttFont>
