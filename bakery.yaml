@@ -1,0 +1,17 @@
+commit: HEAD
+process_files: [MerriweatherSans-Bold.ttf.ttx, MerriweatherSans-ExtraBoldItalic.ttf.ttx,
+  MerriweatherSans-ExtraBold.ttf.ttx, MerriweatherSans-Light.ttf.ttx, MerriweatherSans-LightItalic.ttf.ttx,
+  MerriweatherSans-Italic.ttf.ttx, MerriweatherSans-BoldItalic.ttf.ttx, MerriweatherSans-Regular.ttf.ttx,
+  src/MerriweatherSans-LightItalic.otf.ttx, src/MerriweatherSans-ExtraBoldItalic.otf.ttx,
+  src/MerriweatherSans-Bold.otf.ttx, src/MerriweatherSans-Italic.otf.ttx, src/MerriweatherSans-BoldItalic.otf.ttx,
+  src/MerriweatherSans-Regular.otf.ttx, src/MerriweatherSans-Light.otf.ttx, src/MerriweatherSans-ExtraBold.otf.ttx,
+  src/MerriweatherSans-ExtraBldItalic-TTF.sfd, src/MerriweatherSans-ExtraBold-TTF.sfd,
+  src/MerriweatherSans-Italic-OTF.sfd, src/MerriweatherSans-Regular-TTF.sfd, src/MerriweatherSans-Bold-OTF.sfd,
+  src/MerriweatherSans-ExtraBldItalic-OTF.sfd, src/MerriweatherSans-Bold-TTF.sfd,
+  src/MerriweatherSans-BoldItalic-TTF.sfd, src/MerriweatherSans-Regular-OTF.sfd, src/MerriweatherSans-Light-TTF.sfd,
+  src/MerriweatherSans-Italic.sfd, src/MerriweatherSans-BoldItalic-OTF.sfd, src/MerriweatherSans-Light-OTF.sfd,
+  src/MerriweatherSans-LightItalic-OTF.sfd, src/MerriweatherSans-ExtraBold-OTF.sfd,
+  src/MerriweatherSans-LightItalic-TTF.sfd]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"
